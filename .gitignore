@@ -1,0 +1,10 @@
+.env
+myvenv/
+venv/
+.venv/
+__pycache__/
+*.pyc
+db.sqlite3
+.ipynb_checkpoints/
+1basic_genai.ipynb
+1basic_genai.ipynb
